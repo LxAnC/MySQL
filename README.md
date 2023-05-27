@@ -1,2 +1,2 @@
-# Python-Code
-Python学习记录
+# MySQL的打卡学习
+MySQL的学习记录
